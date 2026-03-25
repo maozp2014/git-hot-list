@@ -8,3 +8,14 @@
 ## 2026-03-24 | MiniMax-AI/skills | ⭐3,760 | （暂无描述）
 ## 2026-03-24 | HKUDS/ClawTeam | ⭐3,327 | ClawTeam: Agent Swarm Intelligence (One Command → Full Automation)
 ## 2026-03-24 | webadderall/Recordly | ⭐3,036 | The open-source screen recorder and editor for professional product videos, demo
+## 2026-03-25 | microsoft/RustTraining | ⭐3,546 | Beginner, advanced, expert level Rust training material
+## 2026-03-25 | MoonshotAI/Attention-Residuals | ⭐2,682 | （暂无描述）
+## 2026-03-25 | pasky/chrome-cdp-skill | ⭐2,637 | Give your AI agent access to your live Chrome session — works out of the box, co
+## 2026-03-25 | VoltAgent/awesome-codex-subagents | ⭐2,468 | A collection of 130+ specialized Codex subagents covering a wide range of develo
+## 2026-03-25 | Narcooo/inkos | ⭐2,336 | Autonomous novel writing CLI agent — AI agents write, audit, and revise novels w
+
+## 2026-03-25 | microsoft/RustTraining | ⭐3,546 | Beginner, advanced, expert level Rust training material, by Microsoft
+## 2026-03-25 | MoonshotAI/Attention-Residuals | ⭐2,682 | Attention Residual 论文官方实现——解决 LLM KV Cache 内存爆炸问题
+## 2026-03-25 | pasky/chrome-cdp-skill | ⭐2,637 | Give your AI agent access to your live Chrome session via CDP
+## 2026-03-25 | VoltAgent/awesome-codex-subagents | ⭐2,468 | 136+ specialized Codex subagents covering 10 categories
+## 2026-03-25 | Narcooo/inkos | ⭐2,336 | Autonomous novel writing CLI agent with AI agents, human review gates
